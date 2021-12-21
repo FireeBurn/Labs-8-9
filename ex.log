@@ -1,0 +1,42 @@
+INFO:root:User started program
+INFO:root:Users input 0
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input -2
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 1
+INFO:root:Users input 4
+INFO:root:Users input 3
+INFO:root:Users input 6
+INFO:root:Users entered figure: 1
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:Users input 5
+INFO:root:Users input 7
+INFO:root:Users input 3
+INFO:root:Users input 2
+INFO:root:Users entered figure: 3
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
+INFO:root:User started program
+INFO:root:Users input 3
+INFO:root:Users input 5
+INFO:root:Users input 2
+INFO:root:Users input 6
+INFO:root:Users entered figure: 5
+ERROR:root:Incorrect number.
+INFO:root:User started program
+INFO:root:Users input 3
+INFO:root:Users input 6
+INFO:root:Users input 4
+INFO:root:Users input 7
+INFO:root:Users entered figure: 4
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Program printed to user.
+INFO:root:Programm ended
